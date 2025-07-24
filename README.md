@@ -53,7 +53,7 @@ This is a static front-end project. It does **not** include any backend logic or
 
 ## 👩‍💻 Author
 
-Created by **Ritu Kumari** as a practice project to enhance front-end development skills using HTML and CSS.
+Created by **Ritu Kumari**
 
 ---
 
